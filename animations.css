@@ -1,0 +1,25 @@
+[data-animate] {
+  opacity: 0;
+  transform: translateY(16px);
+  transition:
+    opacity 0.4s ease-out,
+    transform 0.4s ease-out;
+}
+
+[data-animate="fade-up"].is-visible,
+[data-animate="slide-up"].is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+[data-animate-delay="100"] {
+  transition-delay: 0.08s;
+}
+
+[data-animate-delay="200"] {
+  transition-delay: 0.14s;
+}
+
+[data-animate-delay="300"] {
+  transition-delay: 0.2s;
+}

@@ -1,0 +1,41 @@
+{
+  "siteName": "GenAius Academy",
+  "domain": "genaiusacademy.ae",
+  "pages": [
+    {
+      "path": "/index.html",
+      "title": "GenAius Academy \u2013 Cybersecurity \u2022 AI \u2022 Coding \u2022 Chess",
+      "description": "One Academy. Four Elite Pathways led by FIDE Master & Computer Science Teacher Charles Storey from Dubai & RAK."
+    },
+    {
+      "path": "/pricing.html",
+      "title": "Master Pricing \u2013 GenAius Academy",
+      "description": "Transparent pricing for all Cybersecurity, AI, Python coding, Chess coaching, school programs and corporate training."
+    },
+    {
+      "path": "/cyber.html",
+      "title": "Cybersecurity & Ethical Hacking \u2013 GenAius Academy",
+      "description": "Real-world Cybersecurity & Ethical Hacking coaching for ambitious students, schools and businesses."
+    },
+    {
+      "path": "/ai.html",
+      "title": "AI & Smart Productivity Coaching \u2013 GenAius Academy",
+      "description": "Strategic, safe and personalised AI coaching that makes learners more productive."
+    },
+    {
+      "path": "/python.html",
+      "title": "Python & Coding Bootcamps \u2013 GenAius Academy",
+      "description": "Fast-track Python bootcamps from beginner to project-ready, aligned with exams and industry."
+    },
+    {
+      "path": "/chess.html",
+      "title": "Chess Coaching & Tournaments \u2013 GenAius Academy",
+      "description": "Elite chess coaching & tournaments led by FIDE Master and national team coach Charles Storey."
+    },
+    {
+      "path": "/contact.html",
+      "title": "Contact GenAius Academy",
+      "description": "Book a strategy call or WhatsApp Charles to design your custom Cybersecurity, AI, Python or Chess pathway."
+    }
+  ]
+}
